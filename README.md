@@ -19,10 +19,10 @@
 ###
 
 <div data-importer="socials" align="center">
-  <a href="www.linkedin.com/in/nicole-gomes-824180221" target="_blank">
+  <a href="https://www.linkedin.com/in/nicole-gomes-824180221" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="nicolegomesyssob@gmail.com" target="_blank">
+  <a href="mailto:nicolegomesyssob@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
@@ -41,9 +41,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nicoleyssob/nicoleyssob/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nicoleyssob/nicoleyssob/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
-
-###
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/nicoleyssob/nicoleyssob/snake-output/snake.svg" alt="Snake animation" />
 
 ###
