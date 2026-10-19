@@ -2,6 +2,18 @@
 
 ###
 
+<div data-importer="about" align="center">
+  <h3>👩‍💻 Sobre mim</h3>
+  <p>
+    Sou a Nicole, de Goiânia - GO.<br>
+    Estudante de Ciência da Computação na PUC Goiás (2024–2028).<br>
+    Vim de uma trajetória fora da tecnologia, com experiência em áreas administrativas.<br>
+    Estou sempre aprendendo e aberta a novas oportunidades e conexões. 🚀
+  </p>
+</div>
+
+###
+
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="60" alt="intellij logo"  />
   <img width="12" />
